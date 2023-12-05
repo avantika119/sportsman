@@ -1,0 +1,21 @@
+table{
+border-collapse: collapse;
+}
+td,th{
+    border: 2px solid blue;
+    text-align: center;
+    padding: 10px;
+}
+tr:nth-child(even)
+{background-color: pink;}
+tr:nth-child(odd)
+{background-color: white;}
+
+
+
+
+
+
+
+
+
